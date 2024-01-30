@@ -7,7 +7,7 @@ Cybersecurity Analyst @ TiQHUB,LLC
 - 🤔 I’m looking to Connect with industry experts in cybersecuruty
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-- [<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>(mailto:nithinkumar.m@protonmail.com)
+- [<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>](mailto:nithinkumar.m@protonmail.com)
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cybernithin)
 - 😄 Pronouns: Techie
   
