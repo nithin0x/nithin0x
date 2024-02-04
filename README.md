@@ -20,8 +20,9 @@ Cybersecurity Analyst @ TiQHUB,LLC
 
 ### 💻 Workspace Spec
 <img width="48" height="48" src="https://img.icons8.com/color/48/lenovo.png" alt="lenovo"/> <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
-
+### TryHackme
+<img src="https://tryhackme-badges.s3.amazonaws.com/thecyber.insane.png" alt="TryHackMe">
 [![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecyber-insane)](https://github.com/thecyber-insane/github-readme-stats)
 
-[![Nithin's GitHub Readme stats](https://github-readme-activity-graph.vercel.app/graph?username=thecyber-insane&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
