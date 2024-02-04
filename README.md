@@ -18,11 +18,9 @@ Cybersecurity Analyst @ TiQHUB,LLC
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/metasploit.png" alt="metasploit"/> <img width="64" height="64" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="wireshark--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>
 
-### 💻 Workspace Spec
-<img width="48" height="48" src="https://img.icons8.com/color/48/lenovo.png" alt="lenovo"/> <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 ### TryHackme
 <img src="https://tryhackme-badges.s3.amazonaws.com/thecyber.insane.png" alt="TryHackMe">
-[![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecyber-insane)](https://github.com/thecyber-insane/github-readme-stats)
+
 
 
 
