@@ -19,7 +19,9 @@ Cybersecurity Analyst @ TiQHUB,LLC
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/metasploit.png" alt="metasploit"/> <img width="64" height="64" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="wireshark--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>
 
 ### TryHackme
-<img src="https://tryhackme-badges.s3.amazonaws.com/thecyber.insane.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/1027358"></script>
+
+
 
 
 
