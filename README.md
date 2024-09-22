@@ -14,13 +14,8 @@ Cybersecurity Analyst @ TiQHUB, LLC
 - 😁 Languages Known: German
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
-<img width="48" height="48" src="https://img.icons8.com/color/48/rust-programming-language.png" alt="rust-programming-language"/> 
-<img width="48" height="48" src="https://img.icons8.com/color/48/bash.png" alt="bash"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/rust-programming-language.png" alt="rust-programming-language"/> <img width="48" height="48" src="https://img.icons8.com/color/48/bash.png" alt="bash"/>
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
