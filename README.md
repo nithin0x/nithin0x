@@ -18,5 +18,6 @@ Cybersecurity Analyst @ TiQHUB, LLC
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/metasploit.png" alt="metasploit"/> <img width="64" height="64" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="wireshark--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1027358" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/thecyber.insane.png" alt="Your Image Badge" />
+
 
