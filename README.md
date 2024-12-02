@@ -5,9 +5,7 @@ Cybersecurity Analyst @ TiQHUB, LLC
 - 👯 I’m looking to collaborate on Cybersecurity Projects
 - 🤔 I’m looking to Connect with Industry Experts in Cybersecurity
 - 💬 Ask me about Tech
-- 📫 How to reach me:
-  - [<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>](mailto:nithinkumar@tuta.io)
-  - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cybernithin)
+- 📫 How to reach me:- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cybernithin)
 - 😄 Pronouns: Techie
 - 😁 Extra Languages Known: German
 
