@@ -28,22 +28,12 @@
 ---
 
 ### 👨‍💻 I Code In  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  
-<img height="48" width="48" src="https://img.icons8.com/color/48/rust-programming-language.png" alt="rust-programming-language"/>  
-<img height="48" width="48" src="https://img.icons8.com/color/48/bash.png" alt="bash"/>  
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="48" width="48" src="https://img.icons8.com/color/48/rust-programming-language.png" alt="rust-programming-language"/>  <img height="48" width="48" src="https://img.icons8.com/color/48/bash.png" alt="bash"/>  
 
 ---
 
 ### ⚙️ Tools & IDEs I Use  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  
-<img height="48" width="48" src="https://img.icons8.com/fluency/48/metasploit.png" alt="metasploit"/>  
-<img height="64" width="64" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="wireshark--v1"/>  
-<img height="48" width="48" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>  
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="48" width="48" src="https://img.icons8.com/fluency/48/metasploit.png" alt="metasploit"/>  <img height="64" width="64" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="wireshark--v1"/>  <img height="48" width="48" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>  
 
 ---
 
