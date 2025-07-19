@@ -2,8 +2,7 @@
 **Cybersecurity Analyst @ TiQHUB, LLC**  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/2d/7e/7d/2d7e7de6f5f74b8ac83e72f17afded2d.jpg">  
 
-- 🌱 **Currently learning:** HTB-CPTS , PJPT , CRTA
-- 👯 **Looking to collaborate on:** Cybersecurity Projects  
+- 🌱 **Currently learning:** PT 1 , AWS Certs - CCP , SysOPs
 - 🤔 **Seeking connections with:** Industry Experts in Cybersecurity  
 - 💬 **Ask me about:** Tech and Security  
 - 📫 **Reach me at:**  
