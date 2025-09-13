@@ -20,10 +20,10 @@ I'm a dedicated Cybersecurity Analyst with a passion for building secure digital
 ### ⚡ Skills & Expertise
 
 - **Cloud Security:** AWS Infrastructure & Security Services
-- **Compliance Frameworks:** HITRUST & CMMC
+- **Compliance Frameworks:** CMMC Level 2 & NIST 800-*
 - **Security Operations:** M365 Security Administration
 - **Offensive Security:** Penetration Testing & Security Research
-- **System Administration:** Linux Environments
+- **System Administration:** Linux, Windows and macOS Environments
 - **IT Operations:** Technical Support & Troubleshooting
 
 ---
