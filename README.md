@@ -1,47 +1,89 @@
-### Hi there, I'm Nithin Kumar 👋
+# Nithin Kumar 👋  
+### Purple Teamer
 
-**Cybersecurity Analyst & Penetration Tester @ TiQHUB, LLC**
+I attack systems.  
+I defend them.  
+I close the gap between both.
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/2d/7e/7d/2d7e7de6f5f74b8ac83e72f17afded2d.jpg">
+Cybersecurity Analyst & Penetration Tester with 2+ years of hands-on experience across web applications, cloud infrastructure (AWS/Azure), enterprise networks, and Active Directory environments.
 
-Cybersecurity Analyst and Penetration Tester with 2+ years of experience securing web applications, cloud infrastructure, and enterprise networks. I identify real attack paths, exploit misconfigurations, and validate fixes across the full stack. Passionate about building security into products from the ground up.
-
-- 🔭 **Currently Working On:** Penetration testing & security hardening across cloud, network, web, and AI environments
-- 🌱 **Currently Learning:** Advanced cloud security & offensive techniques
-- 💬 **Ask Me About:** Penetration testing, cloud security, Active Directory attacks, and compliance frameworks
-- 🌐 **Blog:** [nithin0x.space](https://nithin0x.space) - Lab notes, write-ups & methodology breakdowns
-- 📫 **How to reach me:** Feel free to connect with me on LinkedIn!
-
-<a href="https://www.linkedin.com/in/cybernithin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/nithin0x">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://nithin0x.space">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
-</a>
-<a href="https://resume.nithin0x.space">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
-</a>
+My strength is operating across the full security lifecycle:
+- Simulating real-world attacks
+- Detecting them through logging & telemetry
+- Improving defenses based on attacker tradecraft
 
 ---
 
-### ⚡ Skills & Expertise
+## 🟣 What Makes Me a Purple Teamer
 
-- **Offensive Security:** Web, Cloud, Network & AD Penetration Testing / Red Teaming, Vulnerability Assessment
-- **Cloud & Infrastructure:** AWS, Azure & M365 Security
-- **Compliance Frameworks:** NIST 800-171, ISO 27001, ISO 42001, CMMC, CIS Benchmarks, CSA, DISA STIGs & OWASP
-- **Tools:** BloodHound, Certipy, Maester, Prowler, Impacket, Caido, Nmap, FFUF, Sliver C2, NetExec & Metasploit
-- **Scripting:** Python, Bash, PowerShell & Rust
+### 🔴 Offensive Capabilities
+- Web & API exploitation  
+- Cloud privilege escalation (AWS / Azure / M365)  
+- Active Directory attack paths  
+- Credential abuse & lateral movement  
+- Internal network compromise simulations  
+- LLM / AI security testing  
+
+### 🔵 Defensive & Hardening Experience
+- Security configuration reviews (CIS, STIGs, NIST)  
+- Log analysis & detection validation  
+- IAM least-privilege remediation  
+- Secure cloud architecture review  
+- Vulnerability management & risk prioritization  
+
+I don’t just report findings - I validate fixes.
 
 ---
 
-### 🏆 Certifications
+## ☁️ Cloud & Infrastructure Focus
 
-- **Certified Web Exploitation Specialist (CWES)** | HTB Academy - 2025
-- **Certified Red Team Professional (CRTP)** | Altered Security - 2025
-- **Multi-Cloud Red Team Analyst (MCRTA)** | CyberWarFare Labs - 2025
-- **Practical Junior Penetration Tester (PJPT)** | TCM Security - 2025
-- **Google Cybersecurity Professional Certificate** | Coursera - 2023
+- IAM abuse scenarios & privilege escalation paths  
+- Misconfiguration discovery  
+- S3 / Blob exposure analysis  
+- M365 & Azure AD security testing  
+- Security posture assessments using automation  
 
+---
+
+## 🛠 Tools I Use Regularly
+
+**Offensive:**  
+BloodHound • Certipy • Impacket • NetExec  
+Caido • Nmap • FFUF • Metasploit  
+Sliver C2  
+
+**Defensive & Audit:**  
+Prowler • Maester • CIS Benchmark tooling  
+Log & configuration review workflows  
+
+**Scripting:**  
+Python • Bash • PowerShell  
+
+---
+
+## 🧠 Certifications
+
+- **CWES** – HTB Academy (2025)  
+- **CRTP** – Altered Security (2025)  
+- **MCRTA** – CyberWarFare Labs (2025)  
+- **PJPT** – TCM Security (2025)  
+- **Google Cybersecurity Professional Certificate** (2023)  
+
+---
+
+## 📚 Research & Writeups
+
+I document attack paths, cloud abuse scenarios, and remediation workflows:
+
+🌐 https://nithin0x.space  
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/cybernithin  
+- Resume: https://resume.nithin0x.space  
+
+---
+
+> Strong offense makes defense better. Strong defense makes offense smarter.
