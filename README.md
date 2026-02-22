@@ -1,60 +1,58 @@
 # Nithin Kumar 👋  
-### Purple Teamer
+### Purple Teamer | Cloud • AD • Web • AI Security  
 
-I attack systems.  
-I defend them.  
-I close the gap between both.
+I simulate real-world attacks and help teams build defenses that actually stop them.
 
-Cybersecurity Analyst & Penetration Tester with 2+ years of hands-on experience across web applications, cloud infrastructure (AWS/Azure), enterprise networks, and Active Directory environments.
+Security professional with 2+ years of hands-on experience across:
+- Web applications
+- Cloud environments (AWS / Azure / M365)
+- Active Directory & internal networks
+- Emerging AI / LLM attack surfaces
 
-My strength is operating across the full security lifecycle:
-- Simulating real-world attacks
-- Detecting them through logging & telemetry
-- Improving defenses based on attacker tradecraft
-
----
-
-## 🟣 What Makes Me a Purple Teamer
-
-### 🔴 Offensive Capabilities
-- Web & API exploitation  
-- Cloud privilege escalation (AWS / Azure / M365)  
-- Active Directory attack paths  
-- Credential abuse & lateral movement  
-- Internal network compromise simulations  
-- LLM / AI security testing  
-
-### 🔵 Defensive & Hardening Experience
-- Security configuration reviews (CIS, STIGs, NIST)  
-- Log analysis & detection validation  
-- IAM least-privilege remediation  
-- Secure cloud architecture review  
-- Vulnerability management & risk prioritization  
-
-I don’t just report findings - I validate fixes.
+I focus on understanding full attack paths — from initial access to impact — and validating defensive controls against them.
 
 ---
 
-## ☁️ Cloud & Infrastructure Focus
+## 🟣 Purple Team Focus
 
-- IAM abuse scenarios & privilege escalation paths  
-- Misconfiguration discovery  
-- S3 / Blob exposure analysis  
-- M365 & Azure AD security testing  
-- Security posture assessments using automation  
+### 🔴 Offensive Security
+- Web & API exploitation
+- Active Directory attack path analysis
+- Cloud IAM privilege escalation
+- Credential abuse & lateral movement
+- Internal network compromise simulations
+- LLM security testing
+
+### 🔵 Defensive & Hardening
+- CIS / STIG / NIST configuration reviews
+- IAM least-privilege remediation
+- Secure cloud architecture assessments
+- Detection validation & control testing
+- Vulnerability management & risk prioritization
+
+I don’t just find issues. I validate fixes and improve security posture.
 
 ---
 
-## 🛠 Tools I Use Regularly
+## ☁️ Cloud Security Depth
+
+- AWS & Azure misconfiguration discovery
+- IAM abuse simulations
+- M365 & Azure AD security testing
+- Security automation for posture assessment
+- Cloud Security Hardening
+
+---
+
+## 🛠 Tool Stack
 
 **Offensive:**  
 BloodHound • Certipy • Impacket • NetExec  
 Caido • Nmap • FFUF • Metasploit  
 Sliver C2  
 
-**Defensive & Audit:**  
-Prowler • Maester • CIS Benchmark tooling  
-Log & configuration review workflows  
+**Defensive / Audit:**  
+Prowler • Maester • Benchmark tooling  
 
 **Scripting:**  
 Python • Bash • PowerShell  
@@ -63,11 +61,11 @@ Python • Bash • PowerShell
 
 ## 🧠 Certifications
 
-- **CWES** – HTB Academy (2025)  
-- **CRTP** – Altered Security (2025)  
-- **MCRTA** – CyberWarFare Labs (2025)  
-- **PJPT** – TCM Security (2025)  
-- **Google Cybersecurity Professional Certificate** (2023)  
+- CWES – HTB Academy (2025)  
+- CRTP – Altered Security (2025)  
+- MCRTA – CyberWarFare Labs (2025)  
+- PJPT – TCM Security (2025)  
+- Google Cybersecurity Professional Certificate (2023)  
 
 ---
 
@@ -86,4 +84,4 @@ I document attack paths, cloud abuse scenarios, and remediation workflows:
 
 ---
 
-> Strong offense makes defense better. Strong defense makes offense smarter.
+> Break it. Detect it. Fix it.
