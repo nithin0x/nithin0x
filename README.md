@@ -1,71 +1,69 @@
-# Nithin Kumar 👋  
-### Purple Teamer | Cloud • AD • Web • AI Security  
+# Nithin Kumar 👋
 
-I simulate real-world attacks and help teams build defenses that actually stop them.
-
-Security professional with 2+ years of hands-on experience across:
-- Web applications
-- Cloud environments (AWS / Azure / M365)
-- Active Directory & internal networks
-- Emerging AI / LLM attack surfaces
-
-I focus on understanding full attack paths — from initial access to impact — and validating defensive controls against them.
+### Mid-Level Cybersecurity Analyst | Purple Team • Cloud • AD • Web • AI Security
 
 ---
 
-## 🟣 Purple Team Focus
+Cybersecurity Analyst with 2+ years of hands-on experience simulating real-world attacks and strengthening defenses across enterprise environments. I specialize in identifying full attack paths — from initial access to impact — and validating that security controls actually stop them.
+
+**Core Domains:**
+- 🌐 Web Application & API Security
+- ☁️ Cloud Security (AWS / Azure / M365)
+- 🏢 Active Directory & Internal Network Security
+- 🤖 AI / LLM Attack Surface Analysis
+
+---
+
+## 🟣 What I Do
 
 ### 🔴 Offensive Security
-- Web & API exploitation
-- Active Directory attack path analysis
-- Cloud IAM privilege escalation
-- Credential abuse & lateral movement
-- Internal network compromise simulations
-- LLM security testing
+- Web & API vulnerability assessment and exploitation
+- Active Directory attack path analysis & privilege escalation
+- Cloud IAM misconfiguration & privilege abuse testing
+- Credential abuse, lateral movement & persistence simulation
+- Internal network penetration testing
+- LLM / AI security evaluation
 
-### 🔵 Defensive & Hardening
-- CIS / STIG / NIST configuration reviews
-- IAM least-privilege remediation
-- Secure cloud architecture assessments
-- Detection validation & control testing
-- Vulnerability management & risk prioritization
+### 🔵 Defensive Security & Hardening
+- CIS, STIG & NIST benchmark configuration reviews
+- IAM least-privilege design & remediation
+- Cloud architecture security assessments
+- Detection engineering validation & control testing
+- Vulnerability management, triage & risk prioritization
 
-I don’t just find issues. I validate fixes and improve security posture.
-
----
-
-## ☁️ Cloud Security Depth
-
-- AWS & Azure misconfiguration discovery
-- IAM abuse simulations
-- M365 & Azure AD security testing
-- Security automation for posture assessment
-- Cloud Security Hardening
+> I don't just find issues — I validate fixes and measurably improve security posture.
 
 ---
 
-## 🛠 Tool Stack
+## ☁️ Cloud Security
 
-**Offensive:**  
-BloodHound • Certipy • Impacket • NetExec  
-Caido • Nmap • FFUF • Metasploit  
-Sliver C2  
+- AWS & Azure security misconfiguration discovery & remediation
+- IAM abuse simulation & least-privilege enforcement
+- M365 & Azure AD / Entra ID security assessments
+- Cloud security posture automation & continuous monitoring
+- Infrastructure hardening aligned to compliance frameworks
 
-**Defensive / Audit:**  
-Prowler • Maester • Benchmark tooling  
+---
 
-**Scripting:**  
-Python • Bash • PowerShell  
+## 🛠 Tools & Technologies
+
+| Category | Tools |
+|---|---|
+| **Offensive** | BloodHound • Certipy • Impacket • NetExec • Caido • Nmap • FFUF • Metasploit • Sliver C2 |
+| **Defensive / Audit** | Prowler • Maester • CIS Benchmark tooling |
+| **Scripting** | Python • Bash • PowerShell |
 
 ---
 
 ## 🧠 Certifications
 
-- CWES – HTB Academy (2025)  
-- CRTP – Altered Security (2025)  
-- MCRTA – CyberWarFare Labs (2025)  
-- PJPT – TCM Security (2025)  
-- Google Cybersecurity Professional Certificate (2023)  
+| Certification | Issuer | Year |
+|---|---|---|
+| CWES | HTB Academy | 2025 |
+| CRTP | Altered Security | 2025 |
+| MCRTA | CyberWarFare Labs | 2025 |
+| PJPT | TCM Security | 2025 |
+| Google Cybersecurity Professional Certificate | Google | 2023 |
 
 ---
 
@@ -73,14 +71,14 @@ Python • Bash • PowerShell
 
 I document attack paths, cloud abuse scenarios, and remediation workflows:
 
-🌐 https://nithin0x.space  
+🌐 [nithin0x.space](https://nithin0x.space)
 
 ---
 
 ## 📫 Connect
 
-- LinkedIn: https://www.linkedin.com/in/cybernithin  
-- Resume: https://resume.nithin0x.space  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cybernithin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cybernithin)
+[![Resume](https://img.shields.io/badge/Resume-nithin0x.space-black?style=flat&logo=readthedocs)](https://resume.nithin0x.space)
 
 ---
 
