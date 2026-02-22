@@ -4,7 +4,7 @@
 
 ---
 
-Cybersecurity Analyst with 2+ years of hands-on experience simulating real-world attacks and strengthening defenses across enterprise environments. I specialize in identifying full attack paths — from initial access to impact — and validating that security controls actually stop them.
+Cybersecurity Analyst with 2+ years of hands-on experience simulating real-world attacks and strengthening defenses across enterprise environments. I specialize in identifying full attack paths - from initial access to impact - and validating that security controls actually stop them.
 
 **Core Domains:**
 - 🌐 Web Application & API Security
