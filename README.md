@@ -27,7 +27,7 @@ Cybersecurity Analyst with **2+ years** of hands-on experience simulating real-w
 
 </div>
 
-<div align="center">
+<div align="left">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nithin0x&theme=tokyonight&hide_border=true&background=0d1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75)](https://git.io/streak-stats)
 
@@ -58,7 +58,7 @@ Cybersecurity Analyst with **2+ years** of hands-on experience simulating real-w
 
 ## 🧠 Certifications
 
-<div align="center">
+<div align="left">
 
 | Certification | Issuer | Year |
 |:---:|:---:|:---:|
