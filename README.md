@@ -6,7 +6,6 @@
 
 </div>
 
----
 
 ## 🧑‍💻 About Me
 
@@ -18,7 +17,6 @@ Cybersecurity Analyst with **2+ years** of hands-on experience simulating real-w
 - 🤖 **AI / LLM Attack Surface** - Prompt injection, jailbreaks, indirect injection via tool outputs
 - 📝 I document attack paths, cloud abuse scenarios, and remediation workflows at **[nithin0x.space](https://nithin0x.space)**
 
----
 
 ## 📊 GitHub Stats
 
@@ -35,7 +33,6 @@ Cybersecurity Analyst with **2+ years** of hands-on experience simulating real-w
 
 </div>
 
----
 
 ### ⚙️ Scripting & Automation
 | Language | Use Cases |
@@ -59,8 +56,6 @@ Cybersecurity Analyst with **2+ years** of hands-on experience simulating real-w
 
 </div>
 
----
-
 ## 🧠 Certifications
 
 <div align="center">
@@ -75,7 +70,6 @@ Cybersecurity Analyst with **2+ years** of hands-on experience simulating real-w
 
 </div>
 
----
 
 ## 📈 Contribution Activity
 
@@ -85,7 +79,6 @@ Cybersecurity Analyst with **2+ years** of hands-on experience simulating real-w
 
 </div>
 
----
 
 ## 📚 Research & Writeups
 
@@ -93,7 +86,6 @@ I document attack paths, cloud abuse scenarios, and remediation workflows on my 
 
 > 🔗 **[nithin0x.space](https://nithin0x.space)** — Active Directory abuse • Cloud privilege escalation • Web/API security • LLM threat modelling
 
----
 
 ## 📫 Connect
 
@@ -104,7 +96,6 @@ I document attack paths, cloud abuse scenarios, and remediation workflows on my 
 
 </div>
 
----
 
 <div align="center">
 
