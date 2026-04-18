@@ -73,7 +73,7 @@ Cybersecurity Analyst with **2+ years** of hands-on experience simulating real-w
 
 ## 📈 Contribution Activity
 
-<div align="center">
+<div align="left">
 
 [![Nithin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nithin0x&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1D9E75&line=1D9E75&point=ffffff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -89,7 +89,7 @@ I document attack paths, cloud abuse scenarios, and remediation workflows on my 
 
 ## 📫 Connect
 
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cybernithin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cybernithin)
 [![Blog](https://img.shields.io/badge/Blog-nithin0x.space-1D9E75?style=for-the-badge&logo=hashnode&logoColor=white)](https://nithin0x.space)
