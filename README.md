@@ -39,20 +39,52 @@ Cybersecurity Analyst with **2+ years** of hands-on experience simulating real-w
 
 ## 🛠 Tools & Technologies
 
-| Category | Tools |
+### ⚔️ Offensive Security
+| Domain | Tools |
 |---|---|
-| **Offensive** | BloodHound • Certipy • Impacket • NetExec • Caido • Nmap • FFUF • Metasploit • Sliver C2 |
-| **Defensive / Audit** | Prowler • Maester • CIS Benchmark tooling |
-| **Scripting** | Python • Bash • PowerShell |
+| **Active Directory** | BloodHound • Certipy • Impacket • NetExec • Rubeus • PowerView |
+| **C2 & Post-Exploitation** | Sliver C2 • Metasploit • custom Nim stagers (AV evasion) |
+| **Web & API** | Caido • FFUF • Burp Suite • PortSwigger Labs workflows |
+| **Network & Recon** | Nmap • custom Python/Bash pivot & scan scripts |
+| **Cloud Offensive** | AWS CLI (IAM enum) • IMDSv1 abuse • Lambda secrets extraction |
+
+### 🛡️ Defensive, Audit & Hardening
+| Domain | Tools & Frameworks |
+|---|---|
+| **Benchmarks & Compliance** | CIS Benchmarks • CISA guidance • DISA STIGs • NCSC • NIST 800-171 r2 • ISO 27001/42001 • CMMC |
+| **M365 & Entra Security** | Maester • Microsoft Secure Score • Microsoft Intune (Windows & macOS hardening) |
+| **Cloud Audit** | Prowler • AWS IAM Access Analyzer • Azure Security Center |
+| **Identity & AD Audit** | BloodHound (defensive review) • Maester • Entra ID configuration reviews |
+| **Endpoint Management** | Microsoft Intune • PowerShell DSC • Bash automation |
+
+### ⚙️ Scripting & Automation
+| Language | Use Cases |
+|---|---|
+| **Python** | CVE exploitation scripts • internal network scanners • custom payloads • tooling automation |
+| **PowerShell** | Security baseline enforcement • M365 hardening • configuration drift detection • audit automation |
+| **Bash** | Pivot & tunnelling helpers • IP scanning inside segmented networks • remediation scripting |
+
+### 🧪 Lab Platforms & Practice
+| Platform | Focus |
+|---|---|
+| **Hack The Box** | Pro Labs (Dante ✅, P.O.O. ✅) • CPTS prep • CTFs |
+| **VulnLab** | AD-focused labs — Sendai ✅ • realistic misconfiguration chains |
+| **Pwned Labs / Hacking Hub** | Cloud & web exploitation scenarios |
+| **Hack Smarter Labs** | Sliver C2 ✅ • AWS cloud labs (Data Secrets ✅) |
+| **PortSwigger Web Security Academy** | Web & API — IDOR, BOLA, auth bypass, mass assignment |
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 </div>
 
