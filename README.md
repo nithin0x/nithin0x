@@ -95,10 +95,3 @@ I document attack paths, cloud abuse scenarios, and remediation workflows on my 
 [![Blog](https://img.shields.io/badge/Blog-nithin0x.space-1D9E75?style=for-the-badge&logo=hashnode&logoColor=white)](https://nithin0x.space)
 
 </div>
-
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=nithin0x&color=1D9E75&style=flat-square&label=Profile+Views)
-
-</div>
