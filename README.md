@@ -37,41 +37,12 @@ Cybersecurity Analyst with **2+ years** of hands-on experience simulating real-w
 
 ---
 
-## 🛠 Tools & Technologies
-
-### ⚔️ Offensive Security
-| Domain | Tools |
-|---|---|
-| **Active Directory** | BloodHound • Certipy • Impacket • NetExec • Rubeus • PowerView |
-| **C2 & Post-Exploitation** | Sliver C2 • Metasploit • custom Nim stagers (AV evasion) |
-| **Web & API** | Caido • FFUF • Burp Suite • PortSwigger Labs workflows |
-| **Network & Recon** | Nmap • custom Python/Bash pivot & scan scripts |
-| **Cloud Offensive** | AWS CLI (IAM enum) • IMDSv1 abuse • Lambda secrets extraction |
-
-### 🛡️ Defensive, Audit & Hardening
-| Domain | Tools & Frameworks |
-|---|---|
-| **Benchmarks & Compliance** | CIS Benchmarks • CISA guidance • DISA STIGs • NCSC • NIST 800-171 r2 • ISO 27001/42001 • CMMC |
-| **M365 & Entra Security** | Maester • Microsoft Secure Score • Microsoft Intune (Windows & macOS hardening) |
-| **Cloud Audit** | Prowler • AWS IAM Access Analyzer • Azure Security Center |
-| **Identity & AD Audit** | BloodHound (defensive review) • Maester • Entra ID configuration reviews |
-| **Endpoint Management** | Microsoft Intune • PowerShell DSC • Bash automation |
-
 ### ⚙️ Scripting & Automation
 | Language | Use Cases |
 |---|---|
 | **Python** | CVE exploitation scripts • internal network scanners • custom payloads • tooling automation |
 | **PowerShell** | Security baseline enforcement • M365 hardening • configuration drift detection • audit automation |
 | **Bash** | Pivot & tunnelling helpers • IP scanning inside segmented networks • remediation scripting |
-
-### 🧪 Lab Platforms & Practice
-| Platform | Focus |
-|---|---|
-| **Hack The Box** | Pro Labs (Dante ✅, P.O.O. ✅) • CPTS prep • CTFs |
-| **VulnLab** | AD-focused labs — Sendai ✅ • realistic misconfiguration chains |
-| **Pwned Labs / Hacking Hub** | Cloud & web exploitation scenarios |
-| **Hack Smarter Labs** | Sliver C2 ✅ • AWS cloud labs (Data Secrets ✅) |
-| **PortSwigger Web Security Academy** | Web & API — IDOR, BOLA, auth bypass, mass assignment |
 
 <div align="center">
 
