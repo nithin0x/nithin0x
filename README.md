@@ -84,7 +84,7 @@ Cybersecurity Analyst with **2+ years** of hands-on experience simulating real-w
 
 I document attack paths, cloud abuse scenarios, and remediation workflows on my blog:
 
-> 🔗 **[nithin0x.space](https://nithin0x.space)** — Active Directory abuse • Cloud privilege escalation • Web/API security • LLM threat modelling
+> 🔗 **[nithin0x.space](https://nithin0x.space)** - Active Directory abuse • Cloud privilege escalation • Web/API security • LLM threat modelling
 
 ## HTB Stats
 
