@@ -11,10 +11,10 @@
 
 Cybersecurity Analyst with **2+ years** of hands-on experience simulating real-world attacks and strengthening defences across enterprise environments. I specialise in identifying full attack paths - from initial access to impact - and validating that security controls actually stop them.
 
-- 🌐 **Web Application & API Security** - IDOR, BOLA, auth bypass, mass assignment
-- ☁️ **Cloud Security** - AWS, Azure, M365 misconfiguration & privilege escalation
-- 🏢 **Active Directory & Internal Network** - Kerberoasting, RBCD, shadow credentials, lateral movement
-- 🤖 **AI / LLM Attack Surface** - Prompt injection, jailbreaks, indirect injection via tool outputs
+- 🌐 **Web Application & API Security**
+- ☁️ **Cloud Security** 
+- 🏢 **Active Directory & Internal Network**
+- 🤖 **AI / LLM Attack Surface**
 - 📝 I document attack paths, cloud abuse scenarios, and remediation workflows at **[nithin0x.space](https://nithin0x.space)**
 
 
