@@ -17,10 +17,6 @@ Cybersecurity Analyst with **2+ years** of hands-on experience simulating real-w
 - 🤖 **AI / LLM Attack Surface** - Prompt injection, jailbreaks, indirect injection via tool outputs
 - 📝 I document attack paths, cloud abuse scenarios, and remediation workflows at **[nithin0x.space](https://nithin0x.space)**
 
-## HTB Stats
-
-[![HackTheBox](https://www.hackthebox.com/badge/image/2001711)](https://app.hackthebox.com/profile/2001711)
-
 
 ## 📊 GitHub Stats
 
@@ -89,6 +85,10 @@ Cybersecurity Analyst with **2+ years** of hands-on experience simulating real-w
 I document attack paths, cloud abuse scenarios, and remediation workflows on my blog:
 
 > 🔗 **[nithin0x.space](https://nithin0x.space)** — Active Directory abuse • Cloud privilege escalation • Web/API security • LLM threat modelling
+
+## HTB Stats
+
+> [![HackTheBox](https://www.hackthebox.com/badge/image/2001711)](https://app.hackthebox.com/profile/2001711)
 
 
 ## 📫 Connect
