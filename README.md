@@ -62,8 +62,8 @@ Cybersecurity Analyst with **2+ years** of hands-on experience simulating real-w
 
 | Certification | Issuer | Year |
 |:---:|:---:|:---:|
-| ![CWES](https://img.shields.io/badge/CWES-Certified_Web_Exploitation_Specialist-1D9E75?style=flat-square) | HTB Academy | 2025 |
-| ![CRTP](https://img.shields.io/badge/CRTP-Certified_Red_Team_Professional-7F77DD?style=flat-square) | Altered Security | 2025 |
+| ![CWES](https://img.shields.io/badge/CWES-Certified_Web_Exploitation_Specialist-1D9E75?style=flat-square) | HTB Academy | 2026 |
+| ![CRTP](https://img.shields.io/badge/CRTP-Certified_Red_Team_Professional-7F77DD?style=flat-square) | Altered Security | 2026 |
 | ![MCRTA](https://img.shields.io/badge/MCRTA-Multi_Cloud_Red_Team_Analyst-185FA5?style=flat-square) | CyberWarFare Labs | 2025 |
 | ![PJPT](https://img.shields.io/badge/PJPT-Practical_Junior_Penetration_Tester-D85A30?style=flat-square) | TCM Security | 2025 |
 | ![Google](https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-4285F4?style=flat-square&logo=google&logoColor=white) | Google | 2023 |
