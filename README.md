@@ -1,5 +1,4 @@
 # Nithin Kumar M
-#### `nithin-kumar-m`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=1D9E75&center=true&vCenter=true&width=650&lines=Cybersecurity+Analyst+%40+TiQHUB%2C+LLC;Red+team+mindset.+Blue+team+discipline.;Cloud+%2B+AD+%2B+Web+%2B+AI+Security;Simulating+attacks.+Validating+defenses.)](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=1D9E75&center=true&vCenter=true&width=650&lines=Cybersecurity+Analyst+%40+TiQHUB%2C+LLC;Red+team+mindset.+Blue+team+discipline.;Cloud+%2B+AD+%2B+Web+%2B+AI+Security;Simulating+attacks.+Validating+defenses.)
 
@@ -44,26 +43,6 @@ I'm a cybersecurity analyst who spends half my time thinking like an attacker an
 
 🎯 Currently preparing for **SC-500 (Microsoft Security Operations Analyst)**
 
-## 💼 Experience
-
-**Cybersecurity Analyst** — TiQHUB, LLC · Remote
-`Oct 2023 – Present · 3+ years`
-- Risk assessments and threat modeling across cloud, endpoints, and business processes aligned with NIST 800-53, NIST CSF, and ISO 27001
-- Environment hardening using CIS, CISA, and DISA STIG benchmarks across AWS, Azure, and M365 — automated via PowerShell and Bash
-- Secure code reviews of open-source tools for vulnerability, licence risk, and supply-chain exposure
-- Incident response from detection through recovery, including playbook development and tabletop exercises
-- Led end-to-end security projects across engineering, IT, and business teams
-
-**Cybersecurity Analyst — Trainee** — TiQHUB, LLC · Remote
-`Jun 2023 – Oct 2023 · 5 months`
-- Built security playbooks aligned with NIST 800-171 r2 using CIS and CISA benchmarks
-- Hardened M365 tenant configurations, reducing organisation-wide attack surface
-- Configured and secured Windows and macOS endpoints via Microsoft Intune
-
-**🎓 Education**
-- Master of Computer Applications — SRM Institute of Science & Technology, Chennai (GPA 9.0/10, 2026)
-- B.Sc. Computer Technology — Dr. SNS Rajalakshmi College, Coimbatore (GPA 8.4/10, 2023)
-
 ## 🛠️ Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -82,7 +61,7 @@ I'm a cybersecurity analyst who spends half my time thinking like an attacker an
 | **Frameworks & GRC** | NIST 800-53 · NIST CSF · ISO 27001 · CIS Benchmarks · DISA STIGs · OWASP · MITRE ATT&CK |
 
 <details>
-<summary><strong>💻 Additional Tech Stack</strong> (from earlier badge set — dev/infra tools used outside core security work)</summary>
+<summary><strong>💻 Tech Stack</strong> (from earlier badge set — dev/infra tools used outside core security work)</summary>
 <br>
 
 ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
